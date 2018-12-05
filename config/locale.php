@@ -20,6 +20,7 @@ return [
         'fi'    => 'Finnish',
         'fr-FR' => 'French (France)',
         'hi'    => 'Hindi (India)',
+        'hr'    => 'Croatian',
         'id'    => 'Bahasa (Indonesia)',
         'it-IT' => 'Italian (Italy)',
         'nl-NL' => 'Dutch (Netherlands)',
@@ -29,6 +30,7 @@ return [
         'sv-se' => 'Swedish (Sweden)',
         'th'    => 'Thai (Thai)',
         'tr-TR' => 'Turkish (Turkey)',
+        'la'    => 'Latin',
     ],
 
     'route_to_file' => [

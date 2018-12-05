@@ -19,6 +19,7 @@ class CreateFilesTable extends Migration
             $table->string('path');
             $table->string('fileable_type')->comment('office, team or projects');
             $table->integer('fileable_id')->unsigned();
+            $table->integer('cycle_id')->unsigned()->nullable();
             $table->timestamps();
         });
     }

@@ -3,6 +3,7 @@
 ## v0.9 (Yet to release)
 
 - Added direct message to a user functionality
+- Added mentioning user functionality in comment & message
 - Added endpoint to list all tags
 - Added endpoint to create categories
 - Added file upload option in file section
